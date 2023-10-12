@@ -1,7 +1,7 @@
-name: "Open Innovation Labs"
-description: "This is the official site for current projects."
+name: "Sustainable Development Goals Lab"
+description: "This is the official site for SDG Lab projects."
 
-url: "https://openinnovationlabs.github.io"
+url: "https://sdglab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
