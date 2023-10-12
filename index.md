@@ -1,10 +1,10 @@
 ---
-title: Open Innovation Labs
+title: SDG Lab
 layout: home
 group: home
 ---
 
-# Welcome to Open Innovation Labs!
+# Welcome to the SDG Lab!
 {: .display-4}
 <br>
 We bring to bear bleeding edge technologies such as Robotics, A.I. , IoT and the Cloud to solve some of the most vexing problems facing organizations and humanity.
